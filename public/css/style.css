@@ -1,0 +1,29 @@
+p {
+  margin: 10px 0 !important;
+}
+
+.login-container {
+  width: 400px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.story-paragraph {
+  word-break: break-all;
+}
+
+.fa-small {
+  font-size: 16px !important;
+}
+
+.edit-trash-div {
+  display: inline-flex;
+}
+
+a.btn.btn-float {
+  margin-right: 10px;
+}
+
+.img-small {
+  width: 180px;
+}
